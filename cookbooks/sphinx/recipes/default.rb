@@ -4,11 +4,11 @@
 #
 
 # Set your application name here
-appname = "appname"
+appname = "townlife_staging"
 
 # Uncomment the flavor of sphinx you want to use
 #flavor = "thinking_sphinx"
-#flavor = "ultrasphinx"
+flavor = "ultrasphinx"
 
 # If you want to have scheduled reindexes in cron, enter the minute
 # interval here. This is passed directly to cron via /, so you should
